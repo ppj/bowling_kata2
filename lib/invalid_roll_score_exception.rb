@@ -1,0 +1,3 @@
+class InvalidRollScoreException < Exception
+
+end
